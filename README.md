@@ -1,4 +1,4 @@
-# Module 2 Homework: Getting up and running with GitHub.
+# Module 2 Homework: Getting up and running with GitHub
 
 **Instructions**
 
@@ -11,7 +11,7 @@
 - **Note:** To get the URL of your forked GitHub repository, click on the green `Clone or download` button on your repository's GitHub page. `Clone with HTTPS` should then pop up - copy the link shown there. If the pop up opens with `Clone with SSH`, just click the "Clone with HTTPS" link in blue (also located in the pop up). The link should be something like: `https://github.com/your_GitHub_username/Module-2.git`.  
 
 <p align="center">
-<img src="https://github.com/BAE-R-Coding/Module-2/blob/master/img/forked-repo.png" width="700">
+<img src="https://github.com/BAE-R-Coding/Module-2/blob/master/img/forked-repo.png" width="800">
 </p>
 
 - **One more note:** When you are creating the project, do not change the project directory name. The project directory name will automatically populate once you enter the link to your forked repository. You can, however, place your repository in any directory on your computer using `Browse...`.  
