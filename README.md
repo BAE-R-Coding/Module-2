@@ -12,11 +12,11 @@
 
 ![](img/forked-repo.png) 
 
-<img src="img/forked-repo" width="100">
-
 - **One more note:** When you are creating the project, do not change the project directory name. The project directory name will automatically populate once you enter the link to your forked repository. You can, however, place your repository in any directory on your computer using `Browse...`.  
 
-![](img/rproj-git-repo.png)
+![](img/rproj-git-repo.png) 
+
+<img src="https://github.com/BAE-R-Coding/Module-2/blob/master/img/rproj-git-repo.png" width="100">
 
 6. Your RStudio project should now be open. In the File pane of the RStudio window, you should see the files from the GitHub repository. When you created the project in RStudio, you should have specified where the project would live on your computer (i.e., the directory path, which you may have selected using "Browse"). The GitHub repository was cloned to this location on your computer. Go find it and confirm it's where you expect it to be.
 7. Now, we need to tell Git that there is an "upstream" version of this repository (i.e., the original repository that you forked is the "upstream" version). To do this, open the shell from RStudio (*Tools > Shell*) and enter `git remote add upstream https://github.com/BAE-R-Coding/Module-2.git`. Note that you are entering https://github.com/BAE-R-Coding/Module-2.git because you are telling Git there the upstream GitHub repository is located, which is on the BAE-R-Coding account. 
