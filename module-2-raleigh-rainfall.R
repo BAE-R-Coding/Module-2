@@ -31,4 +31,4 @@ ggplot(data = d_monthly, aes(x = MONTH, y = PRCP)) +
   theme_classic()
 
 # Which month had the greatest amount of rainfall in 2019? 
-# Your answer: [enter here]
+# Your answer: April 2019 (until Dorian arrives)
