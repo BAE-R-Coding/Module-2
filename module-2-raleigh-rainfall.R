@@ -3,7 +3,7 @@
 # Load the GSODR and tidyverse packages
 library(GSODR)
 library(tidyverse)
-
+install.packages("tidyverse")
 # Download 2019 weather data for Raleigh by running the following 
 # code:
 d <- get_GSOD(years = 2019, station = "723060-13722")
@@ -31,4 +31,4 @@ ggplot(data = d_monthly, aes(x = MONTH, y = PRCP)) +
   theme_classic()
 
 # Which month had the greatest amount of rainfall in 2019? 
-# Your answer: April
+# Your answer: April!
